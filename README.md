@@ -1,5 +1,3 @@
-# SAHARA
-
 ###### Description
 *SAHARA*-as the name relates to *support*,is a cross-Platform App which helps the needy.The app is basically a Food Donation App which connects Food Donors(Caterers,Individuals,Restaurants etc) and the Receiver(NGOs,Individuals etc).This app demands putting up details of the leftover food along with Pickup address and other relevant details which can be viewed by the Receivers.The Receivers as per their convenience can reach the specifed location to collect the food parcel.Efficient management and security of data have been taken care of while developing our product.
 * Includes Filters for viewing only the required data
